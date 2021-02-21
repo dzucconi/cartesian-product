@@ -1,5 +1,7 @@
 # Cartesian Product
 
+Tool for producing Cartesian product language tables. After [Why You + The Reason You by Nicola Masciandaro](https://www.academia.edu/39407169/Why_You_The_Reason_You).
+
 ## Meta
 
 - **State**: development
